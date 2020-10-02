@@ -1,2 +1,2 @@
-# statistical_graphic-
-This is my homework for sta
+# 常见统计图形的绘制
+这是我统计学基础的作业，包含了轮廓图、雷达图、散点图、调和曲线图、星座图、脸谱图等常见统计图形的R语言绘制。
